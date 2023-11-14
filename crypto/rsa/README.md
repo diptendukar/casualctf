@@ -10,7 +10,7 @@ Most often algorithms are fine, the implementations are not.
 ## Solution:
 2 ways 
 
-1. factor N easy only 128 bits, proceed with finding d and pow(ct, d, n). Each element in the array becomes a character (demical). Concat and flag. 
+1. factor N easy only 128 bits, proceed with finding d and pow(ct, d, n). Each element in the array becomes a character (in decimal). Concat and flag. 
 
 OR
 
