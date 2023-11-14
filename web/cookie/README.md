@@ -1,6 +1,7 @@
-##DESC - Even if you manage to login, only admin can see the flag. 😝
+## NAME - Chocolate-chip
+## DESC - Even if you manage to login, only admin can see the flag. 😝
 
-##Solution - 
+## Solution - 
 from the login page -> view source get the login password from comment 
 
 <!-- TODO: remove backup testing creds user123/password321 -->
