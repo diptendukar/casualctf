@@ -1,1 +1,0 @@
-Help! I can't read the flag!
