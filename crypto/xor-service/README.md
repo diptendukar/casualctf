@@ -8,4 +8,4 @@ We again built an exclusive cipher. This time we are confident it cannot be brok
 150
 
 ## Solution - 
-We get the encrypted flag which is `plaintext flag XOR key (8 radnom bytes)`. We can also interact with the program. This uses `known plaintext`. We can input 8 chars e.g. `abcdefgh` and we get the ciphertext. So CT XOR PT = key . We recover the key. Use the key to recover the plaintext flag. enc flag XOR key = pt flag. 
+We get the encrypted flag which is `plaintext flag XOR key (8 random bytes)`. We can also interact with the program. This uses `known plaintext`. We can input 8 chars e.g. `abcdefgh` and we get the ciphertext. So CT XOR PT = key . We recover the key. Use the key to recover the plaintext flag. enc flag XOR key = pt flag. 
