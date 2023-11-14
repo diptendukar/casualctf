@@ -1,1 +1,0 @@
-I don't have permissions to read the flag! May be I can find something with `special` permissions. 
